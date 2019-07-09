@@ -1,0 +1,9 @@
+{
+  "name": "@types/logger",
+  "version": "0.1.0",
+  "description": "Temporary type definition for logger",
+  "types": "index.d.ts",
+  "repository": "https://github.com/maxwan/types-logger",
+  "author": "Max Wan <maxwkh@gmail.com>",
+  "license": "MIT"
+}
