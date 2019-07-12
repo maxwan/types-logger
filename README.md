@@ -1,3 +1,11 @@
+DEPRECATED
+===
+Use this instead https://www.npmjs.com/package/@types/logger
+```
+npm install -D @types/logger
+```
+
+
 Type definition for [logger](https://www.npmjs.com/package/logger)
 ====
 
